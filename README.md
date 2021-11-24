@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am student of Automation Control and Robotics on Poznan University of Technology.
-I mainly write in C for micro-controllers and use python or matlab for simulations, but in my free time i write some games in Godot which provides python-like language.
+I am student of Automation Control and Robotics on Poznan University of Technology. \
+I love C language and my editor of choice is Neovim. Python is my second favourite language and i use it for scientific simulations and writing games in Godot! \
 I also work on my OpenGl Game in my free time but it takes a lot of time to develop a game and learn proper OpenGl.
+To contact me add me to friends on gladiu#0309 and i should respond fast if I am not sleeping :D
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiu&layout=compact)
 <!--
