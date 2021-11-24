@@ -1,6 +1,9 @@
 ### Hi there 👋
-I am 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiu&theme=chartreuse-dark&show_icons=true)](https://github.com/Gladiu/github-readme-stats)
+I am student of Automation Control and Robotics on Poznan University of Technology.
+I mainly write in C for micro-controllers and use python or matlab for simulations, but in my free time i write some games in Godot which provides python-like language.
+I also work on my OpenGl Game in my free time but it takes a lot of time to develop a game and learn proper OpenGl.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiu&layout=compact)
 <!--
 **Gladiu/Gladiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
