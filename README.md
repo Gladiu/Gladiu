@@ -3,10 +3,13 @@ I am student of Automation Control and Robotics on Poznan University of Technolo
 I love C language and my editor of choice is Neovim. Python is my second favourite language, I use it for scientific simulations and writing games in Godot! \
 I also work on my OpenGl Game in my free time but it takes a lot of time to develop a game and learn proper OpenGl 🤓.\
 
+At the moment I'm using <a href="https://archlinux.org/" target="_blank"> <img src="https://ucarecdn.com/710e7acb-230e-4342-a402-06b4296e886e/" alt="arch" width="20" height="20"/> </a> with XFCE as my OS of choice.
+
 ### 📝Contact me add me by adding me to friends on discord!
 ### gladiu#0309
 
 # My skills
+
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -18,6 +21,7 @@ I also work on my OpenGl Game in my free time but it takes a lot of time to deve
 <a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1920px-Opengl-logo.svg.png" alt="opengl" width="80" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/institute/BlenderDesktopLogo.png" alt="blender" width="40" height="40"/> </a>
 <a href="https://krita.org/en/" target="_blank"> <img src="https://apps.kde.org/app-icons/org.kde.krita.svg" alt="krita" width="40" height="40"/> </a>
+
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiu&layout=compact)
