@@ -6,6 +6,10 @@ I also work on my OpenGl Game in my free time but it takes a lot of time to deve
 ### 📝Contact me add me by adding me to friends on discord!
 ### gladiu#0309
 
+# My skills
+
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.raspberrypi.org" target="_blank"> </a> <a href="https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/STMicroelectronics.png" alt="STM" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_.NET_logo.png/150px-Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/> </a> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiu&layout=compact)
 <!--
 **Gladiu/Gladiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
