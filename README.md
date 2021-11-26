@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am student of Automation Control and Robotics on Poznan University of Technology 🎓 \
 I love C language and my editor of choice is Neovim. Python is my second favourite language, I use it for scientific simulations and writing games in Godot! \
-I also work on my OpenGl Game in my free time but it takes a lot of time to develop a game and learn proper OpenGl 🤓.\
+I also work on my OpenGl Game in my free time but it takes a lot of time to develop a game and learn proper OpenGl 🤓.
 
-At the moment I'm using <a href="https://archlinux.org/" target="_blank"> <img src="https://ucarecdn.com/710e7acb-230e-4342-a402-06b4296e886e/" alt="arch" width="20" height="20"/> </a> with XFCE as my OS of choice.
+I'm using <a href="https://archlinux.org/" target="_blank"> <img src="https://ucarecdn.com/710e7acb-230e-4342-a402-06b4296e886e/" alt="arch" width="20" height="20"/> </a> btw
 
 ### 📝Contact me add me by adding me to friends on discord!
 ### gladiu#0309
